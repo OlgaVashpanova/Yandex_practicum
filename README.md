@@ -6,7 +6,7 @@
 
 1. **Язык программирования:** Python
 2. **Библиотеки:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
-3. **Методы Машинного Обучения:** Logistic Regression, Random Forest, Gradient Boosting
+3. **Методы Машинного Обучения:** Logistic Regression, Random Forest, CatBoostClassifier
 
 ## Процесс Работы
 
